@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: splash
 
-author_profile: false
 header:
   image: /assets/images/DSC_1815.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -23,9 +22,6 @@ feature_row2:
     url: /About/
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-author_profile: false
-
 ---
 
 {% include feature_row id="intro" type="center" %}
