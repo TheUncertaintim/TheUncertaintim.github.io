@@ -10,7 +10,7 @@ classes:
   - dark-theme
 
 believe:
-  - excerpt: "Life is full of __Uncertainties__, and __Tim__ embraces as much as he can." 
+  - excerpt: "Life is full of __Uncertainties__, which __Tim__ embraces as much as he can." 
 
 feature_row:
     - image_path: "assets/images/Coder.png"
