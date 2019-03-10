@@ -3,6 +3,7 @@ layout: splash
 
 header:
   image: "assets/images/Background.JPG"
+  caption: "Photo credit: Wan-Yu Lee"
 
 classes:
   - landing
