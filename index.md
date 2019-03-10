@@ -20,13 +20,14 @@ feature_row:
     alt: "placeholder image 1"
     title: "As a Boulder"
     excerpt: "I climb V12"
-  - image_path: "assets/images/P1010513.jpg"
+  - image_path: "assets/images/P1010513.JPG"
     alt: "placeholder image 1"
     title: "As a Research Associate"
     excerpt: "See my publications"
 
 feature_row2:
   - image_path: "assets/images/about_me.JPG"
+  "/assets/images/P1010513.JPG"
     alt: "placeholder image 2"
     title: "About Me"
     excerpt: 'About me, my shoes, my keyboard'
