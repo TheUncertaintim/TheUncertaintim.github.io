@@ -9,21 +9,24 @@ classes:
   - dark-theme
 
 intro:
-  - excerpt: '__I am Tim. I Make the Uncertainties in Life Become Certain.__'
+  - excerpt: 'I am __Yu-Jeng Kuo__. Yes, you can just call me __Tim__.'
+
+believe:
+  - excerpt: "The __Uncertainties__ are cool. If you embrace them, anything is __Possible__."
 
 feature_row:
-  - image_path: "assets/images/Coder.png"
-    alt: "placeholder image 1"
-    title: "As a Coder"
-    excerpt: "I code in Python and R"
-  - image_path: "assets/images/Cyclist.JPG"
-    alt: "placeholder image 1"
-    title: "As a Boulder"
-    excerpt: "I climb V12"
-  - image_path: "assets/images/P1010513.JPG"
-    alt: "placeholder image 1"
-    title: "As a Research Associate"
-    excerpt: "See my publications"
+    - image_path: "assets/images/Coder.png"
+      alt: "placeholder image 1"
+      title: "As a Programmer"
+      excerpt: "Python and R are my favorites"
+    - image_path: "assets/images/Cyclist.JPG"
+      alt: "placeholder image 1"
+      title: "As a climber"
+      excerpt: "I have sent a V12 bouldering problem"
+    - image_path: "assets/images/P1010513.JPG"
+      alt: "placeholder image 1"
+      title: "As a Research Associate"
+      excerpt: "I study biometrics and emotions"
 
 feature_row2:
   - image_path: "assets/images/about_me.JPG"
@@ -38,6 +41,8 @@ feature_row2:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="believe" type="center" %}
 
 {% include feature_row %}
 
