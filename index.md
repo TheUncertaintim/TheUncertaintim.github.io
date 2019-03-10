@@ -27,7 +27,6 @@ feature_row:
 
 feature_row2:
   - image_path: "assets/images/about_me.JPG"
-  "/assets/images/P1010513.JPG"
     alt: "placeholder image 2"
     title: "About Me"
     excerpt: 'About me, my shoes, my keyboard'
