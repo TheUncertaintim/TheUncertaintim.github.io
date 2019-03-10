@@ -9,11 +9,8 @@ classes:
   - landing
   - dark-theme
 
-intro:
-  - excerpt: 'I am __Yu-Jeng Kuo__. Yes, you can just call me __Tim__.'
-
 believe:
-  - excerpt: "The __Uncertainties__ are cool. If you embrace them, anything is __Possible__."
+  - excerpt: "Life is full of __Uncertainties__, and __Tim__ embraces as much as he can." 
 
 feature_row:
     - image_path: "assets/images/Coder.png"
@@ -40,8 +37,6 @@ feature_row2:
 
 
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="believe" type="center" %}
 
