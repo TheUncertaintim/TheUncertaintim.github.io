@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /About/
+permalink: /about/
 title: Yu-Jeng Kuo
 header:
   overlay_color: "#000"
@@ -45,7 +45,7 @@ He likes the rigorous structure of C++, but he loves also the flexibility in Pyt
 
 ## Goal
 {: style="text-align: center;"}
-Currently, he works as a research associate at the Kempten University of Applied Science based in Germany. After having 3+ years of experience abroad, he plans to return to Asia in the near future.
+Currently, he works as a research associate at the Kempten University of Applied Science based in Germany. After having 3+ years of experience abroad, he plans to return to Asia in the near future. Feel free to [get in touch](mailto:yujeng.k@gmail.com) if you have something to offer.
 {: style="text-align: justify;"}
 
 [^1]: If you really want to practice, this is how it really sounds [like](https://soundcloud.com/yujeng-k/myname). But don't get him wrong, he is always pleased to hear people calling him Yu-Jeng!
