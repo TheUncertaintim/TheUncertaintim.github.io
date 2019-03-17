@@ -31,7 +31,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "About Me"
     excerpt: 'About the uncertainties, about Tim.'
-    url: /About/
+    url: /about/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
