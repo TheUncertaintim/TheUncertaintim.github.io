@@ -2,14 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
+  - title: "Nature with Kivy"
+    url: /NatureWithKivy/Intro/
+
+NatureWithKivy:
+  - title: Introduction
     children:
-      - title: "GSR"
-        url: /gsr/
-      - title: "EEG"
-        url: /eeg/
-  #- title: "Contact"
-  #  url: /contact/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+      - title: "Enviroment Setup"
+        url: /NatureWithKivy/enviroment-setup/
