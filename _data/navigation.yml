@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Nature with Kivy"
     url: /NatureWithKivy/Intro/
+  - title: "About"
+    url: /about/
 
 NatureWithKivy:
   - title: Introduction
