@@ -27,6 +27,6 @@ NatureWithKivy:
 
 {% include feature_row id="subtitle" type="center" %}
 
-{% include feature_row id="Recent_Project" type="center" %}
+<h1 align="center">Recent Project</h1>
 
-{% include feature_row id="NatureWithKivy" type="left" %}
+{% include feature_row id="NatureWithKivy" type="center" %}
