@@ -16,7 +16,7 @@ Recent_Project:
   - title: "Recent Project"
 
 NatureWithKivy:
-  - image_path: "/assets/images/Nature_with_kivy.jpg"
+  - image_path: "assets/images/Nature_with_kivy.JPG"
     title: "Nature With Kivy"
     excerpt: 'Visualize nature phenomenon with python based on the book *Nature of Code* written by Daniel Shiffman'
     url: /NatureWithKivy/Intro/
