@@ -1,12 +1,16 @@
 # main links
 main:
   - title: "Nature with Kivy"
-    url: /NatureWithKivy/Intro/
+    url: /NatureWithKivy/Preface/
   - title: "About"
     url: /about/
 
 NatureWithKivy:
-  - title: Introduction
+  - title: "Preface"
     children:
-      - title: "Enviroment Setup"
-        url: /NatureWithKivy/enviroment-setup/
+      - title: "About the project"
+        url: /NatureWithKivy/Preface/
+  - title: "Introduction"
+    children:
+      - title: "Random Walker"
+        url: /NatureWithKivy/Random_Walker/
