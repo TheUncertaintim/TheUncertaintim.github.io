@@ -21,7 +21,7 @@ Born in Germany and grown up in Taiwan, he has been showing his interest in expl
 Three years after receiving his bachelor degree in Animal Science at [NCHU](https://www.nchu.edu.tw/en-index) in Taiwan, he moved to Germany to pursue his Master degree in Bionic/Biomimetics at [HSRW](https://www.hochschule-rhein-waal.de/en). There, he became a self-taught programmer due to various projects. Since his graduation in 2018, he works as a research associate at Kempten University of Applied Science in Germany. His research focus is on the aspect of human factors in automated driving.
 {: style="text-align: justify;"}
 
-In addition to Python and C++, he speaks Mandarin Chinese, English and German.
+In addition to Python, R and C++, he speaks Mandarin Chinese, English and German.
 {: style="text-align: justify;"}
 ## Hobbies
 {: style="text-align: center;"}
@@ -35,7 +35,7 @@ He has been around with rocks since 2017. At the moment, he goes approximately t
 
 ### Jamming
 {: style="text-align: center;"}
-He loves acoustic guitar, especially with finger picking. In addition to guitar course, he also enjoys simply sitting on the grass and improvising something. 
+He loves acoustic guitar, especially with finger picking. In addition to guitar course, he also enjoys simply sitting on the grass and improvising something.
 {: style="text-align: justify;"}
 
 ## Goal
