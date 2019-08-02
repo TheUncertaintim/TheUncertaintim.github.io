@@ -12,5 +12,7 @@ NatureWithKivy:
         url: /NatureWithKivy/Preface/
   - title: "Introduction"
     children:
+      - title: "The First App"
+        url: /NatureWithKivy/Setup/
       - title: "Random Walker"
         url: /NatureWithKivy/Random_Walker/

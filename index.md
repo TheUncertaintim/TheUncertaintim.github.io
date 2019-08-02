@@ -18,7 +18,7 @@ Recent_Project:
 NatureWithKivy:
   - image_path: "assets/images/Nature_with_kivy.JPG"
     title: "Nature With Kivy"
-    excerpt: 'Visualize nature phenomenon with python based on the book *Nature of Code* written by Daniel Shiffman'
+    excerpt: 'Animate nature phenomenon with python based on the book *Nature of Code* written by Daniel Shiffman'
     url: /NatureWithKivy/Preface/
     btn_label: "Read More"
     btn_class: "btn--primary"
