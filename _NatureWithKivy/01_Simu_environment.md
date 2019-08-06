@@ -23,7 +23,7 @@ class NatureApp(App):
     pass
 ```
 
-Since every running Kivy application needs one and only one root widget, we need to add the widget to the window. Here, the root widget is returned by the `build` function when the `App` is instantiated.
+Since every running Kivy application can have one and only one root widget, we need to add the widget to the window. Here, the root widget is returned by the `build` function when the `App` is instantiated.
 
 ```python
 class NatureApp(App):
@@ -55,8 +55,10 @@ if __name__ == "__main__":
 {% endhighlight %}
 
 
-If you run the above code snippet with `python main.py` in you terminal, a basic window would appear with nothing side.
+If you run the above code snippet with `python main.py` in you terminal, a basic window would appear with nothing inside.
 
 ![A running app](/assets/images/TheFirstApp.png 'A running app')
 
-Yeah. For more details on how the app works, please refer to the offical [doc](https://kivy.org/doc/stable/guide/basic.html#quickstart).
+Nice.
+
+For more details on how Kivy works under the hood, please refer to the official [docs](https://kivy.org/doc/stable/guide/basic.html#quickstart).
