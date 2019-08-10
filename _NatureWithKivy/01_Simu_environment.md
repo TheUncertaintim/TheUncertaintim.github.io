@@ -16,7 +16,7 @@ from kivy.app import App
 from kivy.uix.widget import Widget
 ```
 
-Then, you need to write a class which inherit from the `App` class. This will be your app window.
+Then, you need to write a class which inherits from the `App` class. This will be your app window.
 
 ```python
 class NatureApp(App):
@@ -62,3 +62,4 @@ If you run the above code snippet with `python main.py` in you terminal, a basic
 Nice.
 
 For more details on how Kivy works under the hood, please refer to the official [docs](https://kivy.org/doc/stable/guide/basic.html#quickstart).
+{: .text-justify}
