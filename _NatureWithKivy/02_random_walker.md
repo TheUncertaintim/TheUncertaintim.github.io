@@ -1,5 +1,5 @@
 ---
-title: "Random Walker"
+title: "Random walker"
 permalink: /NatureWithKivy/Random_Walker/
 excerpt: "Simulate and visualize random walk in Python"
 toc: True

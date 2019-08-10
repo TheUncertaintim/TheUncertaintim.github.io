@@ -1,5 +1,5 @@
 ---
-title: "The First App"
+title: "The first app"
 permalink: /NatureWithKivy/Setup/
 excerpt: "Set up a basic Kivy app so that it can display our simulation"
 toc: false
