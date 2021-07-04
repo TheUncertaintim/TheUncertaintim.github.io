@@ -44,6 +44,6 @@ He loves acoustic guitar, especially with finger picking. In addition to guitar 
 
 ## Goal
 {: style="text-align: center;"}
-My experiment with Nature of Kivvy has arrived at the crossroads and I am looking to explore ways to take this project to the next level. For the next iteration of Nature with Kivvy, I intend to incorporate elements of art and other forms of technology. If you are interested to collaborate or have something to offer, don’t be a stranger! Say hi, and drop me a message [here](mailto:yujeng.k@gmail.com).{: style="text-align: justify;"}
+Yu-Jeng’s experiment with Nature of Kivvy has arrived at the crossroads and he is looking to explore ways to take this project to the next level. For the next iteration of Nature with Kivvy, he intends to incorporate elements of art and other forms of technology. If you are interested to collaborate or have something to offer, don’t be a stranger! Say hi, and drop him a message [here](mailto:yujeng.k@gmail.com).{: style="text-align: justify;"}
 
 [^1]: If you really want to practice, this is how it really sounds [like](https://soundcloud.com/yujeng-k/myname). But don't get him wrong, he is always pleased to hear people calling him Yu-Jeng!
