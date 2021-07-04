@@ -16,12 +16,13 @@ He is often embarrassed of not immediately realizing people calling his name. To
 
 ## Background
 {: style="text-align: center;"}
-Born in Germany and grown up in Taiwan, he has been showing his interest in exploring technology since he was a kid. At the age of 5, he threw a coin into his father's 5.25 inch floppy disk reader. Later in his school age, he decided to staple his index finger just to see how a stapler works. After reading his first 400 pages book [Cry of the Kalahari](https://en.wikipedia.org/wiki/Cry_of_the_Kalahari) at age 12, the National Geographic became his favorite TV channel.
+Born in Germany and bred in Taiwan, he has shown interest in exploring technology since he was a kid. At the age of 5, he grew curious about anything tech related - he threw a coin into his father's 5.25 inch floppy disk reader and made it stuck (oopsie); Later in his school days, he would develop interest in understanding how things work (through the hard way) - he decided to staple his index finger just to see how a stapler works (ouch!). At the same time, his burgeoning love for animals and nature blossomed and he read his first 400 pages book [Cry of the Kalahari](https://en.wikipedia.org/wiki/Cry_of_the_Kalahari) at age 12, the National Geographic became his favorite TV channel.
 {: style="text-align: justify;"}
-Three years after receiving his bachelor degree in Animal Science at [NCHU](https://www.nchu.edu.tw/en-index) in Taiwan, he moved to Germany to pursue his Master degree in Bionic/Biomimetics at [HSRW](https://www.hochschule-rhein-waal.de/en). There, he became a self-taught programmer due to various projects. Since his graduation in 2018, he works as a research associate at Kempten University of Applied Science in Germany. His research focus is on the aspect of human factors in automated driving.
+Three years after receiving his bachelor degree in Animal Science at [NCHU](https://www.nchu.edu.tw/en-index) in Taiwan, he moved to Germany to pursue his Master degree in Bionic/Biomimetics at [HSRW](https://www.hochschule-rhein-waal.de/en). While studying, he became a self-taught programmer through various projects which equipped him with the necessary skills, landing him a Research Associate position at Kempten University of Applied Science, Germany, upon graduation. His research focus was on the aspect of human factors in automated driving. Key highlights includes contributing to two publication and presenting a poster at the Human Factors and Ergonomic Society Annual Meeting (2019) conference in Nantes, France, for which he was awarded the Best Poster Award.
+
 {: style="text-align: justify;"}
 
-In addition to Python, R and C++, he speaks Mandarin Chinese, English and German.
+In addition to C++, Python and SQLite, he speaks Mandarin Chinese, English and German.
 {: style="text-align: justify;"}
 ## Hobbies
 {: style="text-align: center;"}
