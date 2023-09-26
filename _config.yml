@@ -20,10 +20,10 @@ title                    : "The Uncertaintim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yu-Jeng Kuo"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A self-taught software engineer on a pathless path"
+url                      : "https://theuncertaintim.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "TheUncertaintim/TheUncertaintim.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # false (default)
 search                   : true # false (default)
 search_full_content      : true # false (default)
 search_provider          : lunr # (default), algolia, google
@@ -93,6 +93,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/yu-jeng-kuo/"
 
 # Analytics
 analytics:
@@ -106,25 +107,7 @@ analytics:
 author:
   name             : "Yu-Jeng Kuo"
   avatar           : "/assets/images/P1010513.JPG"
-  bio              : "I am an amazing person."
-  #location         : "Somewhere"
-  #email            : YuJeng.K@gmail.com
-  #links:
-  #  - label: "Email"
-  #    icon: "fas fa-fw fa-envelope-square"
-  #    url: mailto:yujeng.k@gmail.com
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #    url: "https://www.TheUncertaintim.com"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/TheUncertaintim"
-  #  - label: "Xing"
-  #    icon: "fab fa-fw fa-xing"
-  #    url: "https://www.xing.com/profile/YuJeng_Kuo/cv"
-  #  - label: "LinkedIn"
-  #    icon: "fab fa-fw fa-linkedin"
-  #    url: "https://www.linkedin.com/in/yu-jeng-kuo-696133aa/"
+  bio              : "A self-taught software engineer on a pathless path"
 
 # Site Footer
 footer:
@@ -135,12 +118,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TheUncertaintim"
-    - label: "Xing"
-      icon: "fab fa-fw fa-xing"
-      url: "https://www.xing.com/profile/YuJeng_Kuo/cv"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yu-jeng-kuo-696133aa/"
+      url: "https://www.linkedin.com/in/yu-jeng-kuo/"
 
 # Reading Files
 include:
