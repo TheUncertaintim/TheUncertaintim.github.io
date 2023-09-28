@@ -1,12 +1,12 @@
 ---
-layout: single
-permalink: /about/
 title: Yu-Jeng Kuo
+permalink: /about/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: "assets/images/Background.JPG"
+  overlay_filter: "0.2"
+  overlay_image: "assets/images/home-header-image.png"
 ---
+
 ## His Name
 {: style="text-align: center;"}
 **Yu-Jeng** is his first name. **Kuo** is his last name.
