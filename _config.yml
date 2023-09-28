@@ -106,8 +106,19 @@ analytics:
 # Site Author
 author:
   name             : "Yu-Jeng Kuo"
-  avatar           : "/assets/images/P1010513.JPG"
-  bio              : "A self-taught software engineer on a pathless path"
+  avatar           : "/assets/images/the-uncertaintim-avatar.jpg"
+  bio              : "An uncertain, full-stack software engineer nicknamed Tim."
+  location         : Singapore
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:yujeng.k@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TheUncertaintim"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yu-jeng-kuo/"
 
 # Site Footer
 footer:
@@ -181,9 +192,11 @@ kramdown:
 
 # Collections
 collections:
-  NatureWithKivy:
+  portfolio:
     output: true
-    permalink: /:collection/:path/
+  # NatureWithKivy:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -254,25 +267,25 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # all the pages get "single" layout by default
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-
-  # _NatureWithKivy
-  - scope:
-      path: ""
-      type: NatureWithKivy
     values:
       layout: single
       author_profile: false
-      sidebar:
-        title: "Nature With Kivy"
-        nav: "NatureWithKivy"
+  # project collections all use "splash" layout
+  - scope:
+      type: portfolio
+    values:
+      layout: splash
+
+  # # _NatureWithKivy
+  # - scope:
+  #     path: ""
+  #     type: NatureWithKivy
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     sidebar:
+  #       title: "Nature With Kivy"
+  #       nav: "NatureWithKivy"
