@@ -2,11 +2,11 @@
 layout: splash
 
 header:
-  image: "assets/images/home-header-image.png"
+  image: "assets/images/home-header-image.jpg"
   caption: "Photo credit: Wan-Yu Lee"
 
 intro:
-  - excerpt: 'The Uncertainties in Stats, Engineering, Psychology are just out there in our daily life. This personal site talks about how I understand it, and visualize them with code.'
+  - excerpt: 'Uncertainty is the only certainty there is.<br>This personal site is about my journey embracing the not knowing, with code.'
 
 ---
 

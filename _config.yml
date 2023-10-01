@@ -20,7 +20,7 @@ title                    : "The Uncertaintim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yu-Jeng Kuo"
-description              : "A self-taught software engineer on a pathless path"
+description              : "Yu-Jeng's personal site documenting his journey embracing the uncertainty"
 url                      : "https://theuncertaintim.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TheUncertaintim/TheUncertaintim.github.io"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Yu-Jeng Kuo"
   avatar           : "/assets/images/the-uncertaintim-avatar.jpg"
-  bio              : "An uncertain, full-stack software engineer nicknamed Tim."
+  bio              : "A software engineer nicknamed Tim looking forward to daily uncertainty."
   location         : Singapore
   links:
     - label: "Email"

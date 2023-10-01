@@ -5,8 +5,6 @@ header:
   image: /assets/images/the-lost-passage/header-image2.png
 ---
 
-<!--- Excerpt --->
-
 A collaborative artwork that aims to raise awareness for climate emergency
 
 # Origin
