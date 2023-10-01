@@ -32,7 +32,7 @@ The problem? We also like to keep the photos taken on the actual day to be share
 
 # yjsh.day
 
-We took our initials and bought a domain name [yjsh.day](https:yjsh.day), then got right down to work.
+We took our initials and bought a domain name [yjsh.day](https://yjsh.day), then got right down to work.
 
 ## Design
 
@@ -107,7 +107,7 @@ It took me around a month to build, test, debug and finally deploy the web app. 
 
 On the actual day, we received a handful of messages and numerous photos through the app. Seeing the application working, bringing in all the messages from our guest was fantastic. To me, it was a successful experiment!
 
-I disabled the features for uploading photos and messages sometime after the wedding. But you can still visit the website at [yjsh.day](https:yjsh.day). The source code can be found in my [Github](https://github.com/TheUncertaintim/yjsh-day).
+I disabled the features for uploading photos and messages sometime after the wedding. But you can still visit the website at [yjsh.day](https://yjsh.day). The source code can be found in my [Github](https://github.com/TheUncertaintim/yjsh-day).
 
 <!-- ### Hidden feature
 
