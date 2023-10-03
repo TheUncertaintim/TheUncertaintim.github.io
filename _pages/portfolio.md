@@ -10,7 +10,7 @@ author_profile: true
 sort_order: reverse 
 ---
 
-I started my coding jounery with **C++**, **Python**, and **Java**. With the rise of web applications in recent years, I started dabbling in web development with **JavaScript**.
+I started my coding journey with **C++**, **Python**, and **Java**. With the rise of web applications in recent years, I started dabbling in web development with **JavaScript**.
 
 Here is a collection of projects that I have worked on. Some of them are self-initiated, while others are done collaboratively. 
 
