@@ -14,4 +14,4 @@ I started my coding journey with **C++**, **Python**, and **Java**. With the ris
 
 Here is a collection of projects that I have worked on. Some of them are self-initiated, while others are done collaboratively. 
 
-## Projects
+## Web Applications
