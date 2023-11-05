@@ -52,7 +52,7 @@ For example, the physical version of the first card (**Advice**) looks like this
 
 ### Web application
 
-For the designed of the web application, SH started out with a sketch in Figma.
+For the design of the web application, SH started out with a sketch in Figma.
 
 {% include gallery caption="Figma design for **yjsh.day**" %}
 
@@ -123,4 +123,4 @@ I couldn't be more happy about how the idea came about, and that it finally got 
 
 Many thanks to my wife SH for working with me on this project, it would not have been possible without her.
 
-[^1]: I passed the [Associated Cloud Engineer certification exam](https://google.accredible.com/7cfc739f-27ef-4e2d-85a2-38c82dd99391) 2 months after the project.
+[^1]: I passed the [Associate Cloud Engineer certification exam](https://google.accredible.com/7cfc739f-27ef-4e2d-85a2-38c82dd99391) 2 months after the project.
